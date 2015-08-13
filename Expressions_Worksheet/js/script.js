@@ -18,6 +18,7 @@ humanAge = prompt("Enter your age here...");
 sparkysAge = humanAge * 7;
 //outputs
 //TODO create outputs
+alert("Sparky is " + sparkysAge + "!!!");
 alert("Sparky is " + humanAge + " human years old, which is " + sparkysAge + " in dog years.");
 //Sparky is X human years old which is X in dog years.
 console.log("Sparky is " + humanAge + " human years old, which is " + sparkysAge + " in dog years.");
