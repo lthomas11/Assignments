@@ -10,16 +10,16 @@
 //var total slices
 var pizzaSlices;
 var partyPeople;
-var totalSlices;
+var slicesPer;
 var totalPies;
 //prompts
 //TODO create prompts
 //prompt = "Enter your age here..."
-pizzaSlices = prompt("Enter how many slices of pizza...");
 partyPeople = prompt("Enter how many people are at the event...");
-totalPies = prompt("Enter how many pizzas were ordered...")
-totalSlices = totalPies / partyPeople / pizzaSlices;
+totalPies = prompt("Enter how many pizzas were ordered...");
+pizzaSlices = prompt("Enter how many slices of pizza...");
+slicesPer = totalPies / pizzaSlices * partyPeople;
 //outputs
 //TODO create outputs
-alert("Each person ate " + totalSlices + " slices of pizza at the party.");
-console.log("Each person ate " + totalSlices + " slices of pizza at the party.");
+alert("Each person ate " + slicesPer + " slices of pizza at the party.");
+console.log("Each person ate " + slicesPer + " slices of pizza at the party.");
