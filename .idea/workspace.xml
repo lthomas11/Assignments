@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5694f04-5971-4ae3-a969-3cc850199012" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thomas_Leonard_Expressions_Assignment/Expressions_Assignment.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thomas_Leonard_Expressions_Assignment/Expressions_Assignment.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Expressions_Worksheet/js1/Expressions_Problem2.js" afterPath="$PROJECT_DIR$/Expressions_Worksheet/js1/Expressions_Problem2.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Thomas_Leonard_Expressions_Assignment/Expressions_Assignment.html" afterPath="$PROJECT_DIR$/Thomas_Leonard_Expressions_Assignment/js/Expressions_Assignment.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Thomas_Leonard_Expressions_Assignment/Expressions_Assignment.js" afterPath="$PROJECT_DIR$/Thomas_Leonard_Expressions_Assignment/js/Expressions_Assignment.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Assignments.iws" />
@@ -27,20 +26,20 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Expressions_Assignment.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Thomas_Leonard_Expressions_Assignment/Expressions_Assignment.html">
+        <entry file="file://$PROJECT_DIR$/Thomas_Leonard_Expressions_Assignment/js/Expressions_Assignment.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.5">
-              <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+            <state vertical-scroll-proportion="-5.625">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Expressions_Assignment.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Thomas_Leonard_Expressions_Assignment/Expressions_Assignment.js">
+        <entry file="file://$PROJECT_DIR$/Thomas_Leonard_Expressions_Assignment/js/Expressions_Assignment.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8909091">
-              <caret line="68" column="49" selection-start-line="68" selection-start-column="49" selection-end-line="68" selection-end-column="49" />
+            <state vertical-scroll-proportion="0.7242647">
+              <caret line="69" column="47" selection-start-line="69" selection-start-column="47" selection-end-line="69" selection-end-column="47" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -60,6 +59,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Leonard Thomas" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -78,8 +82,10 @@
         <option value="$PROJECT_DIR$/Expressions_Worksheet/js1/Expressions_Problem2.html" />
         <option value="$PROJECT_DIR$/Expressions_Worksheet/js1/Expressions_Problem2.js" />
         <option value="$PROJECT_DIR$/Thomas_Leonard_Expressions_Assignment/Expressions Assignment.js" />
-        <option value="$PROJECT_DIR$/Thomas_Leonard_Expressions_Assignment/Expressions_Assignment.html" />
         <option value="$PROJECT_DIR$/Thomas_Leonard_Expressions_Assignment/Expressions_Assignment.js" />
+        <option value="$PROJECT_DIR$/Thomas_Leonard_Expressions_Assignment/Expressions_Assignment.html" />
+        <option value="$PROJECT_DIR$/Thomas_Leonard_Expressions_Assignment/js/Expressions_Assignment.html" />
+        <option value="$PROJECT_DIR$/Thomas_Leonard_Expressions_Assignment/js/Expressions_Assignment.js" />
       </list>
     </option>
   </component>
@@ -170,6 +176,10 @@
               <option name="myItemId" value="Thomas_Leonard_Expressions_Assignment" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -209,7 +219,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Expressions_Worksheet/js/index.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Thomas_Leonard_Expressions_Assignment/js/Expressions_Assignment.html" />
     <property name="SearchEverywhereHistoryKey" value="htm&#9;ACTION&#9;NewHtmlFile&#10;js&#9;ACTION&#9;NewJavaScriptFile" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
@@ -223,21 +233,23 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Thomas_Leonard_Expressions_Assignment/js" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.Expressions_Assignment.html">
+    <configuration default="false" name="Expressions_Problem2.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Thomas_Leonard_SDI/Expressions_Worksheet/js1/Expressions_Problem2.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="Expressions_Assignment.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost/Thomas_Leonard_Expressions_Assignment/js/Expressions_Assignment.html">
+      <method />
+    </configuration>
     <configuration default="false" name="Thomas_Leonard_Output_Assignment.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$PROJECT_DIR$/index.html" path-to-js-file="js/script.js" working-dir="$PROJECT_DIR$">
       <browser start="true" url="http://localhost:63342/Assignments/Thomas_Leonard_Output_Assignment.html" />
       <method />
     </configuration>
-    <configuration default="false" name="Expressions_Problem2.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Thomas_Leonard_SDI/Expressions_Worksheet/js1/Expressions_Problem2.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="Expressions_Assignment.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost/Thomas_Leonard_Expressions_Assignment/Expressions_Assignment.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="Expressions_Assignment.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="Expressions_Assignment.js" working-dir="$PROJECT_DIR$/Thomas_Leonard_Expressions_Assignment">
+    <configuration default="false" name="Expressions_Assignment.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="js/Expressions_Assignment.js" working-dir="$PROJECT_DIR$/Thomas_Leonard_Expressions_Assignment">
+      <browser start="true" url="http://localhost/Thomas_Leonard_Expressions_Assignment/js/Expressions_Assignment.html" />
       <method />
     </configuration>
     <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote">
@@ -286,9 +298,9 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.Thomas_Leonard_Output_Assignment.js" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Expressions_Problem2.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Expressions_Assignment.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Expressions_Problem2.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Expressions_Assignment.html" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.Thomas_Leonard_Output_Assignment.js" />
       <item index="4" class="java.lang.String" itemvalue="Node.js.Expressions_Assignment.js" />
     </list>
     <recent_temporary>
@@ -317,28 +329,35 @@
       <option name="project" value="LOCAL" />
       <updated>1439427758122</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Changes to js file (with errors)">
+      <created>1439515128326</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1439515128326</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32942554" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32984293" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942554" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22039859" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942554" sideWeight="0.50277776" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17916666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22039859" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942554" sideWeight="0.49722221" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942554" sideWeight="0.50277776" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39921466" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -377,14 +396,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changes to js file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes to js file" />
+    <MESSAGE value="Changes to js file (with errors)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes to js file (with errors)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Thomas_Leonard_Expressions_Assignment/Expressions_Assignment.html">
+    <entry file="file://$PROJECT_DIR$/Thomas_Leonard_Expressions_Assignment/js/Expressions_Assignment.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
@@ -392,7 +412,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Thomas_Leonard_Expressions_Assignment/Expressions_Assignment.js">
+    <entry file="file://$PROJECT_DIR$/Thomas_Leonard_Expressions_Assignment/js/Expressions_Assignment.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -461,18 +481,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Thomas_Leonard_Expressions_Assignment/Expressions_Assignment.html">
+    <entry file="file://$PROJECT_DIR$/Thomas_Leonard_Expressions_Assignment/js/Expressions_Assignment.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.5">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        <state vertical-scroll-proportion="-5.625">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Thomas_Leonard_Expressions_Assignment/Expressions_Assignment.js">
+    <entry file="file://$PROJECT_DIR$/Thomas_Leonard_Expressions_Assignment/js/Expressions_Assignment.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8909091">
-          <caret line="68" column="49" selection-start-line="68" selection-start-column="49" selection-end-line="68" selection-end-column="49" />
+        <state vertical-scroll-proportion="0.7242647">
+          <caret line="69" column="47" selection-start-line="69" selection-start-column="47" selection-end-line="69" selection-end-column="47" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
