@@ -20,26 +20,23 @@
 //var discMilitary = -$2.25
 //var discEarlybird = -$3.75
 //var userInput5 = prompt text
-var sectionOne = $45;
-var sectionTwo = $30;
-var sectionThree = $15;
-var userInput1 = promptext1;
-var promptext1 = prompt("Please type in what section you would like to sit in." +
-    "Section ONE" +
-    "Section TWO" +
-    "Section THREE");
-var localArea = $2;
-var countryArea = $5;
-var intlArea = $11;
-var userInput2 = prompttext2;
-var firstName = prompttext3;
-var lastName = prompttext4;
+var sectionOne = "$" + 45;
+var sectionTwo = "$" + 30;
+var sectionThree = "$" + 15;
+var userInput1;
+userInput1 = promptText1;
+var localArea = "$" + 2;
+var countryArea = "$" + 5;
+var intlArea = "$" + 11;
+var userInput2 = promptText2;
+var firstName = promptText3;
+var lastName = promptText4;
 var userInput3 = firstName;
 var userInput4 = lastName;
 var discStudent = 1.50;
 var discMilitary = 2.25;
 var discEarlybird = 3.75;
-var userInput5 = prompttext5;
+var userInput5 = promptText5;
 var totalPrice = [userInput1, userInput2 - userInput5]
 
 //TODO create prompts
@@ -48,21 +45,20 @@ var totalPrice = [userInput1, userInput2 - userInput5]
 //prompt = “Please type your First name to place on the ticket.”
 //prompt = “Please type your Last name to place on the ticket.”
 //prompt = “Please type the discount that applies to you: Student, Military, or Early Bird.”
-prompt("Please type in what section you would like to sit in." +
-    "Section ONE" +
-    "Section TWO" +
-    "Section THREE");
-prompt("Please type in the location that applies to you" +
-    "City" +
-    "Country" +
-    "International");
-prompt("Please type your First name to place on the ticket");
-prompt("Please type your Last name to place on the ticket");
-prompt("Please type the discount that applies to you" +
-    "Student" +
-    "Military" +
-    "Early Bird");
-
+promptText1 = prompt("Please type in what section you would like to sit in." +
+    sectionOne +
+    sectionTwo +
+    sectionThree);
+promptText2 = ("Please type in the location that applies to you" +
+    localArea +
+    countryArea +
+    intlArea);
+promptText3 = ("Please type your First name to place on the ticket");
+promptText4 = ("Please type your Last name to place on the ticket");
+promptText5 = "Please type the discount that applies to you" +
+    discStudent +
+    discMilitary +
+    discEarlybird;
 //TODO create outputs
 //alert = "You have selected" userInput1
 //alert = "Your price for " userInput1 "is" var 1,2, or 3
@@ -73,6 +69,6 @@ prompt("Please type the discount that applies to you" +
 alert("You have selected " + userInput1);
 alert("Your price for " + userInput1 + " is" + sectionOne + ".");
 alert('You have selected ' + userInput2);
-alert("Your name will appear as " + firstName + lastName + ".");
+alert("Your name will appear as " + userInput3 + userInput4 + ".");
 alert("You have selected " + userInput5 + ".");
-alert("Your total for your selected ticket is " + totalPrice + ".")
+alert("Your total for your selected ticket is " + totalPrice + ".");
