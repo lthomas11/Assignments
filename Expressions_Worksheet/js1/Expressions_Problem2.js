@@ -20,11 +20,11 @@ var leftOvers;
 partyPeople = prompt("Enter how many people are at the event...");
 totalPies = prompt("Enter how many pizzas were ordered...");
 pizzaSlices = prompt("Enter how many slices of pizza...");
-leftOvers = prompt("Enter how many slices are left over...")
+leftOvers = prompt("Enter how many slices are left over...");
 slicesPer = totalPies / pizzaSlices * partyPeople;
-sparkysKeep = slicesPer - leftOvers
+sparkysKeep = slicesPer - leftOvers;
 //outputs
 //TODO create outputs
 alert("Each person ate " + slicesPer + " slices of pizza at the party.");
-alert("Sparky can eat " + sparkysKeep + " slices of pizza!")
+alert("Sparky can eat " + sparkysKeep + " slices of pizza!");
 console.log("Each person ate " + slicesPer + " slices of pizza at the party.");
