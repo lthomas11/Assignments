@@ -23,7 +23,11 @@
 var sectionOne = $45;
 var sectionTwo = $30;
 var sectionThree = $15;
-var userInput1 = prompttext1;
+var userInput1 = promptext1;
+var promptext1 = prompt("Please type in what section you would like to sit in." +
+    "Section ONE" +
+    "Section TWO" +
+    "Section THREE");
 var localArea = $2;
 var countryArea = $5;
 var intlArea = $11;
@@ -67,7 +71,7 @@ prompt("Please type the discount that applies to you" +
 //alert = “You have selected” userinput5
 //alert = “Your total for your selected ticket is” totalPrice
 alert("You have selected " + userInput1);
-alert("Your price for " + userInput1 + " is" + );
+alert("Your price for " + userInput1 + " is" + sectionOne + ".");
 alert('You have selected ' + userInput2);
 alert("Your name will appear as " + firstName + lastName + ".");
 alert("You have selected " + userInput5 + ".");
